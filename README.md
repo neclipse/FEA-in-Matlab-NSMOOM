@@ -1,4 +1,4 @@
-# NSMOOM
+# General FEA in Matlab/NSMOOM
 A Matlab based object oriented 2D FEA platform where linear, nonlinear behavior can be modeled.
 
 Author: Chang Huang at Louisiana State University, chuan25@lsu.edu
